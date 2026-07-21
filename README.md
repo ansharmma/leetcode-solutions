@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ansharmma/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0704-binary-search](https://github.com/ansharmma/leetcode-solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ansharmma/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/ansharmma/leetcode-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
