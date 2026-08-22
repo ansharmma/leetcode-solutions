@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/ansharmma/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/ansharmma/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0704-binary-search](https://github.com/ansharmma/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ansharmma/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/ansharmma/leetcode-solutions/tree/master/0724-find-pivot-index) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/ansharmma/leetcode-solutions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
