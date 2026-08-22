@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/ansharmma/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/ansharmma/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ansharmma/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0704-binary-search](https://github.com/ansharmma/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ansharmma/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ansharmma/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ansharmma/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ansharmma/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
