@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ansharmma/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/ansharmma/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ansharmma/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/ansharmma/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/ansharmma/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/ansharmma/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ansharmma/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ansharmma/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/ansharmma/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Matrix
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/ansharmma/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ansharmma/leetcode-solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
