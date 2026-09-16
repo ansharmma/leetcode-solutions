@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ansharmma/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/ansharmma/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/ansharmma/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0643-maximum-average-subarray-i](https://github.com/ansharmma/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ansharmma/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ansharmma/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ansharmma/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ansharmma/leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ansharmma/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
